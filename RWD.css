@@ -89,6 +89,7 @@ body{
     width: 100%;
     background-color: rgba(0, 0, 0, 0.75);
     position: fixed;
+    z-index: 100;
 }
 .navbar .container{
     display: flex;
