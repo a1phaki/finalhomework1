@@ -82,7 +82,7 @@ body{
 }
 @media (max-width:576px){
     .container{
-      max-width: 432px;
+      max-width: 320px;
     }
 }
 .navbar{
